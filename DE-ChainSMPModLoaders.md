@@ -1,5 +1,5 @@
 # ChainSMP Mods
-Diese Mods werden **stark** empfohlen für den ChainSMP.  <br/>Falls es probleme mit dem Tutorial gibt, [kontaktiert uns](https://discord.gg/7V6Dpt5cDq).
+Diese Mods werden **stark** empfohlen für den ChainSMP.  <br/>Falls es Probleme mit dem Tutorial gibt, [kontaktiert uns](https://discord.gg/7V6Dpt5cDq).
 ## Modloaders
 ### Fabric
 Dieser Modloader sollte genutzt werden.<br/>
