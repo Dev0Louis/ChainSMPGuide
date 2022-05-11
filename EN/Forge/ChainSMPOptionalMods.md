@@ -5,4 +5,4 @@
 ## [StarLight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge/download/3706539/file)
 ## [Fps-RenderDistance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance/download/3766033/file)
 
-## [Sound Physics](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/download/3775919/file)</br><sub><sup>*Nicht auf Low End Geräten!</sub></sup>
+## [Sound Physics](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/download/3775919/file)</br><sub><sup>*Not on Low End Devices!</sub></sup>
