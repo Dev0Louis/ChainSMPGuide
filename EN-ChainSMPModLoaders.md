@@ -6,4 +6,4 @@ This Modloader should be used.<br/>
 Download the installer [here](https://fabricmc.net/use/installer/)**!**<br/>
 You need the [FabricAPI](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/3759491) too.
 
-**If you downloaded Fabric click [here](https://github.com/D1p4k/Test)**
+**If you downloaded Fabric click [here](https://github.com/D1p4k/ChainSMPGuide/blob/b15e382dce759b9dcb8dd2fb487ae7e6fd1ab708/EN-Fabric-ChainSMPMods.md)**
