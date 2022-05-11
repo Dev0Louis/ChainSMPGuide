@@ -1,2 +1,2 @@
-### [German](https://github.com/D1p4k/Test)
-### [English](https://github.com/D1p4k/Test)
+### [German](https://github.com/D1p4k/ChainSMPGuide)
+### [English](https://github.com/D1p4k/ChainSMPGuide)
