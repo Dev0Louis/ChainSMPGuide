@@ -1,5 +1,5 @@
 # ChainSMP Mods
-Hier werden die Mods für denn ChainSMP aufgelistet!</br>
+Hier werden die Mods für ChainSMP aufgelistet!</br>
 
 ### [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu/files/3767908)
 
