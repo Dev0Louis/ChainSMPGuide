@@ -1,5 +1,5 @@
 # ChainSMP Mods
-Hier werden die Mods für ChainSMP aufgelistet!</br>
+Aqui estan los Mods para ChainSMP que fueron aligerado!</br>
 
 ### [Mod Menu](https://cdn.modrinth.com/data/mOgUt4GM/versions/3.2.1/modmenu-3.2.1.jar)
 
