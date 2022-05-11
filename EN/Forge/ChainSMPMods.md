@@ -1,5 +1,5 @@
 # ChainSMP Mods
-Hier werden die Mods für ChainSMP aufgelistet!</br>
+That are the ChainSMP Mods.
 
 ### [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/download/3732702/file)
 </br>
