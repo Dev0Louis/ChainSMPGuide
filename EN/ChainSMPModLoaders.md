@@ -13,4 +13,4 @@ You need the [FabricAPI](https://www.curseforge.com/minecraft/mc-mods/fabric-api
 **For this Modloader there will be no support!**
 
 You can find Forge [here](https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.1.0/forge-1.18.2-40.1.0-installer.jar) download it, and execute it **!**<br/>
-**Falls du Forge heruntergeladen hast, klicke [hier](https://github.com/D1p4k/ChainSMPGuide/blob/main/DE/Forge/ChainSMPMods.md)**
+**If you downloaded Forge, click [here](https://github.com/D1p4k/ChainSMPGuide/blob/main/EN/Forge/ChainSMPMods.md)**
