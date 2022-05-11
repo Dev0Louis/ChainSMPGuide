@@ -1,7 +1,7 @@
 # ChainSMP Mods
 This are the ChainSMP Mods that are strongly advised.
 ## Modloaders
-### Fabric*¹
+### Fabric
 This Modloader should be used
 
 Download the installer here:
