@@ -9,4 +9,4 @@ Du brauchst zudem noch die [FabricAPI](https://www.curseforge.com/minecraft/mc-m
 **Falls du Fabric heruntergeladen hast, klicke [hier](https://github.com/D1p4k/ChainSMPGuide/blob/main/DE-Fabric-ChainSMPMods.md)**
 
 
-### Fabric
+### Forge
