@@ -5,7 +5,7 @@
 ## [Litihum](https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17.1-0.7.5/lithium-fabric-mc1.17.1-0.7.5.jar)
 ## [Starlight](https://cdn.modrinth.com/data/H8CaAYZC/versions/1.0.2+1.18.2/starlight-1.0.2+fabric.89b8d9f.jar)
 ## [FerriteCore](https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.1/ferritecore-4.2.1-fabric.jar)
-## [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu/files/3209972)
+## [LazyDFU](https://github.com/astei/lazydfu/releases/download/0.1.2/lazydfu-0.1.2.jar)
 
 
 ## [Sound Physics](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/3775919)</br><sub><sup>*Nicht auf Low End Geräten!</sub></sup>
