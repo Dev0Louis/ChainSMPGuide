@@ -11,3 +11,4 @@ Du brauchst zudem noch die [FabricAPI](https://www.curseforge.com/minecraft/mc-m
 
 ### Forge
 **Für diesen Modloader wird es keinen support geben!**
+Lol
