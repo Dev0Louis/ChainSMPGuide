@@ -1,6 +1,6 @@
 # **Optional Mods**
 
-## [Iris](https://modrinth.com/mod/iris/version/1.18.x-v1.2.4)
+## [Iris](https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.4/iris-mc1.18.2-1.2.4-build.38.jar)
 ## [Sodium](https://modrinth.com/mod/sodium/version/mc1.18.2-0.4.1)<sub><sub>*[Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra/files/3733071)</sup></sub>
 ## [Litihum](https://modrinth.com/mod/lithium/version/mc1.18.2-0.7.9)
 ## [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight/files/3667443)
