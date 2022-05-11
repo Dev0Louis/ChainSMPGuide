@@ -13,3 +13,5 @@ Du brauchst zudem noch die [FabricAPI](https://www.curseforge.com/minecraft/mc-m
 **Für diesen Modloader wird es keinen support geben!**
 
 Den Forge Installer findet ihr [hier](https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.1.0/forge-1.18.2-40.1.0-installer.jar) ladet ihn herunter, und führt ihn aus **!**<br/>
+**Falls du Forge heruntergeladen hast, klicke [hier](https://github.com/D1p4k/ChainSMPGuide/blob/main/DE/Forge/ChainSMPMods.md)**
+
