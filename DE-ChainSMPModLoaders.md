@@ -12,5 +12,5 @@ Du brauchst zudem noch die [FabricAPI](https://www.curseforge.com/minecraft/mc-m
 ### Forge
 **Für diesen Modloader wird es keinen support geben!**
 
-Hier findet ihr den Forge Installer [hier](https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.1.0/forge-1.18.2-40.1.0-installer.jar) ladet ihn herunter, und führt ihn aus **!**<br/>
+Den Forge Installer findet ihr [hier](https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.1.0/forge-1.18.2-40.1.0-installer.jar) ladet ihn herunter, und führt ihn aus **!**<br/>
 
