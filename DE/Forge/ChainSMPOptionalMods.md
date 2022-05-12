@@ -1,4 +1,4 @@
-# **Optional Mods**
+# **Opcional Mods**
 
 ## [Magnesium](https://www.curseforge.com/minecraft/mc-mods/sodium-reforged/download/3526076/file)
 ## [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore/download/3767288/file)
