@@ -1,7 +1,7 @@
 Minecraft Regelwerk
 
-##§1 Griefen ist in jeder Form verboten
-##§2 Hacks, Cheats, Bug Abuse und ähnliches wird mit einem Ban bestraft
+§1 Griefen ist in jeder Form verboten
+§2 Hacks, Cheats, Bug Abuse und ähnliches wird mit einem Ban bestraft
 §2.1 Autoclicker und andere Modifikationen sind auch verboten
 §3 Beleidigen, etc      *
 §4 Combatlogging ist nicht erlaubt
