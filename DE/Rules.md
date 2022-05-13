@@ -18,7 +18,7 @@
 §2.2 Dazu zählen auch Minimaps die Höhlen, Monster, Tier oder Spieler zeigen.</br>
 
 ## §3 Beleidigen und ähnliches sind verboten.
-§3.1 Beleidigungen sind strengstens untersagt, denn wir wollen ein freundliches Miteinander und keine zerstrittene Community!
+§3.1 Beleidigungen sind untersagt, denn wir wollen ein freundliches Miteinander und keine zerstrittene Community!
 
 ## §4 Voicemod Nutzung
 §4.1 Soundboard's sind verboten.</br>
