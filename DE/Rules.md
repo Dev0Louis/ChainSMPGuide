@@ -1,6 +1,7 @@
 # Minecraft Regelwerk
 
-§1 Griefen ist in jeder Form verboten
+### §1 Wer dem Roleplay schadet, nicht mitspielt, wird gebannt. </br> 
+
 §2 Hacks, Cheats, Bug Abuse und ähnliches wird mit einem Ban bestraft
 §2.1 Autoclicker und andere Modifikationen sind auch verboten
 §3 Beleidigen, etc      *
