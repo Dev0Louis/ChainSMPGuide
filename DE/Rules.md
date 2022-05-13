@@ -1,7 +1,6 @@
 # Minecraft Regelwerk
 
-## Rechnen müsst ihr damit, dass ihr in Streams/Videos zuhören seit!
-<sup>*wenn ihr mitspielt erklärt ihr euch damit okay</sup>
+## Rechnen müsst ihr damit, dass ihr in Streams/Videos zuhören seit!</br><sup>*wenn ihr mitspielt erklärt ihr euch damit okay</sup>
 
 
 ### §1 Wer dem Roleplay schadet, nicht mitspielt, wird gebannt.
