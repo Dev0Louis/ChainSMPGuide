@@ -9,7 +9,8 @@
 §1.2 Das Lügen für gekünstelten Streit, ist in normal Situationen nicht erlaubt.</br>
 §1.3 Out of Roleplay probleme sind nicht im Roleplay zu klären.</br>
 §1.4 Das spielen von Krankheiten, Behinderungen oder Schwangerschaften ist in normalen Situationen untersagt.</br>
-$1.5 Es sollte im Roleplay nicht auf denn Support oder die Regeln hingewiesen werden.
+§1.5 Es sollte im Roleplay nicht auf denn Support oder die Regeln hingewiesen werden.
+§1.6 Eine Basis wird durch eine klar erkennbare Mauer gekennzeichnet.
 
 ## §2 Modifikationen, Autoclicker und etc sind Verboten.  
 §2.1 Jede Modifikation die nicht explizit erlaubt wurde, kann zu einem bann führen, falls diese als Verboten eingestuft wird.</br>
@@ -20,10 +21,13 @@ $1.5 Es sollte im Roleplay nicht auf denn Support oder die Regeln hingewiesen we
 §3.1 Beleidigungen sind strengstens untersagt, denn wir wollen ein freundliches Miteinander und keine zerstrittene Community!
 
 ## §4 Voicemod Nutzung
-§4.1 Errape ist verboten
-§4.2 Musik und generelles reden sollte nicht übermäßig laut sein
+§4.1 Soundboard's sind verboten.</br>
+§4.2 Earrape ist verboten!</br>
+§4.3 Stimmenverzerer sind verboten.</br>
 
 ## §5 Spawntrappen ist verboten
 
-
-Teammitglieder haben das letzte Wort und bestimmen im Supportfall.
+*Teammitglieder haben das letzte Wort und bestimmen im Supportfall.
+*¹Denkt dran das es ein Hobby Projekt von mir und dem Team ist, dass heißt wir wollen spaß haben. 
+Wenn ihr es einfach kaputt macht ohne gegen Regeln zu verstoßen, werdet ihr trotzdem gebannt!
+*²Überarbeitungsvorschläge können per Pull Request oder in einem Ticket gefordert werden.
