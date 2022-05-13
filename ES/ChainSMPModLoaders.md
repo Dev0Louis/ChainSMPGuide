@@ -4,7 +4,7 @@ Estos Mods estan **altamente** recomendado para el ChainSMP.  <br/>Por si hay pr
 ### Fabric
 Este Modloader tiene que ser usado.<br/>
 Descarga la instalacion [Aqui](https://fabricmc.net/use/installer/) baja y ejecutalo **!**<br/>
-Tambien necesitas el [FabricAPI](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/3759491), este Mod es para el Paquete de Mods.
+Tambien necesitas el [FabricAPI](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3759491/file), este Mod es para el Paquete de Mods.
 
 **Cuando instales el Fabric , toca [Aqui](https://github.com/D1p4k/ChainSMPGuide/blob/main/ES/Fabric/ChainSMPMods.md)**
 
