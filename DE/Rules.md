@@ -1,7 +1,7 @@
 # Minecraft Regelwerk
 
 ### §1 Wer dem Roleplay schadet, nicht mitspielt, wird gebannt.
-<sup>#### §1.1 Wer vor Roleplay Situationen flieht wird bestraft</sup>
+§1.1 Wer vor Roleplay Situationen flieht wird bestraft
 
 §2.1 Autoclicker und andere Modifikationen sind auch verboten
 §3 Beleidigen, etc      *
