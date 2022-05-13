@@ -1,4 +1,4 @@
-# Minecraft Regelwerk
+# Regelwerk
 
 ## Rechnen müsst ihr damit, dass ihr in Streams/Videos zuhören seit!</br><sup><sup>*wenn ihr mitspielt erklärt ihr euch damit okay</sup></sup>
 
