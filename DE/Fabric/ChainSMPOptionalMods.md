@@ -8,4 +8,4 @@
 ## [LazyDFU](https://github.com/astei/lazydfu/releases/download/0.1.2/lazydfu-0.1.2.jar)
 
 
-## [Sound Physics](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/3775919)</br><sub><sup>*Nicht auf Low End Geräten!</sub></sup>
+## [Sound Physics](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/download/3775919/file)</br><sub><sup>*Nicht auf Low End Geräten!</sub></sup>
