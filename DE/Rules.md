@@ -5,6 +5,8 @@
 §1.2 Das Lügen für gekünstelten Streit, ist in normal Situationen nicht erlaubt.
 §1.3 Out of Roleplay probleme sind nicht im Roleplay zu klären.
 
+</br>
+
 §2.1 Autoclicker und andere Modifikationen sind auch verboten
 §3 Beleidigen, etc      *
 §4 Combatlogging ist nicht erlaubt
