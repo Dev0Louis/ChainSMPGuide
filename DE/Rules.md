@@ -29,7 +29,7 @@
 ## §5 Spawntrappen ist verboten
 
 
-
+</br></br></br>
 
 
 *Teammitglieder haben das letzte Wort und bestimmen im Supportfall.</br>
