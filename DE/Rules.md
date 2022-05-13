@@ -9,7 +9,7 @@
 §1.2 Das Lügen für gekünstelten Streit, ist in normal Situationen nicht erlaubt.</br>
 §1.3 Out of Roleplay probleme sind nicht im Roleplay zu klären.</br>
 §1.4 Das spielen von Krankheiten, Behinderungen oder Schwangerschaften ist in normalen Situationen untersagt.</br>
-§1.5 Es sollte im Roleplay nicht auf denn Support oder die Regeln hingewiesen werden.
+§1.5 Es sollte im Roleplay nicht auf denn Support oder die Regeln hingewiesen werden.</br>
 §1.6 Eine Basis wird durch eine klar erkennbare Mauer gekennzeichnet.
 
 ## §2 Modifikationen, Autoclicker und etc sind Verboten.  
