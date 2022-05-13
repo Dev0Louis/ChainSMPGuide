@@ -19,6 +19,7 @@
 
 ## §3 Beleidigen und ähnliches sind verboten.
 §3.1 Beleidigungen sind untersagt, denn wir wollen ein freundliches Miteinander und keine zerstrittene Community!
+§3.2 Im Roleplay sind sie in **maßen** erlaubt, aber haltet es in **grenzen**!
 
 ## §4 Voicemod Nutzung
 §4.1 Soundboard's sind verboten.</br>
