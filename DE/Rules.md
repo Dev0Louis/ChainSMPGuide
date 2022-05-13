@@ -4,7 +4,7 @@
 
 
 ### §1 Wer dem Roleplay schadet, nicht mitspielt, wird gebannt.
-**§1.0 Eine explizite Regel um fest zu stellen, das ihr dem Roleplay schaden wollt.**
+**§1.0 Eine explizite Regel um fest zu stellen, das ihr dem Roleplay schaden wollt, wird nicht gebraucht!**</br>
 §1.1 Wer vor Roleplay Situationen flieht, wird bestraft.</br>
 §1.2 Das Lügen für gekünstelten Streit, ist in normal Situationen nicht erlaubt.</br>
 §1.3 Out of Roleplay probleme sind nicht im Roleplay zu klären.</br>
