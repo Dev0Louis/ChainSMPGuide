@@ -1,6 +1,6 @@
 # Regelwerk
 
-## Rechnen müsst ihr damit, dass ihr in Streams/Videos zuhören seit!</br><sup><sup>*wenn ihr mitspielt oder in Voicechats seit erklärt ihr euch damit okay</sup></sup>
+## Rechnen müsst ihr damit, dass ihr in Streams/Videos zuhören seit!</br><sup><sup>*wenn ihr mitspielt oder in Voicechats seid erklärt ihr euch damit okay</sup></sup>
 
 
 ### §1 Wer dem Roleplay schadet, nicht mitspielt, wird gebannt.
