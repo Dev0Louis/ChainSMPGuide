@@ -6,9 +6,11 @@
 §1.3 Out of Roleplay probleme sind nicht im Roleplay zu klären.</br>
 
 ### §2 Hacking, Autoclicker und etc sind Verboten.  
-§2.1 Autoclicker und andere Modifikationen sind auch verboten
-§2.2
+§2.1 Autoclicker und andere Modifikationen sind auch verboten.</br>
+§2.2 Dazu zählen auch Minimaps die Höhlen, Monster, Tier oder Spieler zeigen.</br>
 
+### §3 Beleidigen ist verboten.
+§3.1 Beleidigungen sind strengstens untersagt, denn wir wollen ein freundliches Miteinander und keine zerstrittene Community!
 
 §3 Beleidigen, etc      *
 §4 Combatlogging ist nicht erlaubt
