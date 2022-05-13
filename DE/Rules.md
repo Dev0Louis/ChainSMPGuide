@@ -13,7 +13,7 @@
 §1.6 Eine Basis wird durch eine klar erkennbare Mauer gekennzeichnet.
 
 ## §2 Modifikationen, Autoclicker und etc sind Verboten.  
-§2.1 Jede Modifikation die nicht explizit erlaubt wurde, kann zu einem Bann führen, falls diese als Verboten eingestuft wird.</br>
+§2.1 Jede Modifikation, die nicht explizit erlaubt wurde, kann zu einem Bann führen, falls diese als Verboten eingestuft wird.</br>
 §2.1 Autoclicker und andere Modifikationen sind auch verboten.</br>
 §2.2 Dazu zählen auch Minimaps die Höhlen, Monster, Tiere oder Spieler zeigen.</br>
 
