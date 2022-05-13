@@ -28,6 +28,10 @@
 
 ## §5 Spawntrappen ist verboten
 
+
+
+
+
 *Teammitglieder haben das letzte Wort und bestimmen im Supportfall.</br>
 *¹Denkt dran das es ein Hobby Projekt von mir und dem Team ist, dass heißt wir wollen spaß haben. 
 Wenn ihr es einfach kaputt macht ohne gegen Regeln zu verstoßen, werdet ihr trotzdem gebannt!</br>
