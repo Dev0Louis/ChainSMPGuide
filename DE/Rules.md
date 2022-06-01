@@ -26,7 +26,9 @@
 §4.2 Earrape ist verboten!</br>
 §4.3 Stimmenverzerer sind verboten.</br>
 
-## §5 Spawntrappen ist verboten
+## §5 Automatische Farmen sind nicht erlaubt
+
+## §6 Spawntrappen ist verboten
 
 
 </br></br></br>
