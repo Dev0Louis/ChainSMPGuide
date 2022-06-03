@@ -27,6 +27,7 @@
 §4.3 Stimmenverzerer sind verboten.</br>
 
 ## §5 Automatische Farmen sind nicht erlaubt
+§5.1 Eisenfarmen dürfen in kleinen Maßen gebaut werden
 
 ## §6 Spawntrappen ist verboten
 
