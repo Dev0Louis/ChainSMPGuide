@@ -28,6 +28,7 @@
 
 ## §5 Automatische Farmen sind nicht erlaubt
 §5.1 Eisenfarmen dürfen in kleinen Maßen gebaut werden
+§5.2 Raidfarmen sind nicht erlaubt, in jeglicher form.
 
 ## §6 Spawntrappen ist verboten
 
