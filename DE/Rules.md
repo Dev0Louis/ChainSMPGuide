@@ -27,7 +27,7 @@
 §4.3 Stimmenverzerer sind verboten.</br>
 
 ## §5 Automatische Farmen sind nicht erlaubt
-§5.1 Raidfarmen sind nicht erlaubt, in jeglicher form.
+§5.1 Raidfarmen sind nicht erlaubt, in jeglicher Form.
 
 ## §6 Spawntrappen ist verboten
 
