@@ -10,7 +10,7 @@
 §1.3 Out of Roleplay Probleme sind nicht im Roleplay zu klären.</br>
 §1.4 Das spielen von Krankheiten, Behinderungen oder Schwangerschaften ist in normalen Situationen untersagt.</br>
 §1.5 Es sollte im Roleplay nicht auf denn Support oder die Regeln hingewiesen werden.</br>
-$1.6 Der allgemeine Stil des Servers ist Mittelalterlich, falls ihr gegen diesen Verstößt könnt ihr bestraft werden.</br>
+§1.6 Der allgemeine Stil des Servers ist Mittelalterlich, falls ihr gegen diesen Verstößt könnt ihr bestraft werden.</br>
 §1.7 Eine Basis wird durch eine klar erkennbare Mauer gekennzeichnet.
 
 ## §2 Modifikationen, Autoclicker und etc sind Verboten.  
