@@ -1,13 +1,11 @@
 # ChainSMP Mods
-That are the Mods for ChainSMP!</br>
+Hier werden die Mods für ChainSMP aufgelistet!</br>
 
-### [Fabric API](https://modrinth.com/mod/fabric-api/version/0.56.3%2B1.19)
+### [Mod Menu](https://cdn.modrinth.com/data/mOgUt4GM/versions/3.2.1/modmenu-3.2.1.jar)
 
-### [Mod Menu](https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.0/modmenu-4.0.0.jar)
+### [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config/download/3782775/file)
 
-### [Cloth Config](https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.72+forge/cloth-config-7.0.72-forge.jar)
-
-### [Simple Voice Chat](https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.19-2.2.46/voicechat-fabric-1.19-2.2.46.jar)
+### [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/download/3783929/file)
 </br>
 
-**[Optionale Mods](./Optional.md)**
+**[Optionale Mods](https://github.com/D1p4k/ChainSMPGuide/blob/main/EN/Fabric/ChainSMPOptionalMods.md)**
