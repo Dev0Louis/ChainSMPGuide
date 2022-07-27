@@ -3,7 +3,7 @@
 ## Rechnen müsst ihr damit, dass ihr in Streams/Videos zuhören seid!</br><sup><sup>*wenn ihr mitspielt oder in Voicechats seid erklärt ihr euch damit okay</sup></sup>
 
 
-### §1 Wer dem Roleplay schadet, nicht mitspielt, wird gebannt.
+### §1 Wer dem Roleplay schadet, wird gebannt.
 **§1.0 Eine explizite Regel, um fest zu stellen, das ihr dem Roleplay schaden wollt, wird nicht gebraucht!**</br>
 §1.1 Wer vor Roleplay Situationen flieht, wird bestraft.</br>
 §1.2 Das Lügen für gekünstelten Streit ist in normal Situationen nicht erlaubt.</br>
