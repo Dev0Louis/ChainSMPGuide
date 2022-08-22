@@ -23,7 +23,8 @@
 §3.2 Im Roleplay sind sie in **maßen** erlaubt, aber haltet es in **grenzen**!
 
 ## §4 Voicemod Nutzung
-§4.1 Die Voicemod ist Plicht und muss verwendet werden. Sollte es Probleme damit geben wendet euch an den Support
+§4.1 Die Voicemod ist Plicht und muss verwendet werden.
+ Sollte es Probleme damit geben wendet euch an den Support
 §4.2 Soundboard's sind verboten.</br>
 §4.3 Earrape ist verboten!</br>
 §4.4 Stimmenverzerer sind verboten.</br>
