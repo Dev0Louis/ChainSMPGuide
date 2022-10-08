@@ -12,6 +12,8 @@
 §1.5 Es sollte im Roleplay nicht auf denn Support oder die Regeln hingewiesen werden.</br>
 §1.6 Der allgemeine Stil des Servers ist Mittelalterlich, falls ihr gegen diesen Verstößt, könnt ihr bestraft werden.</br>
 §1.7 Eine Basis wird durch eine klar erkennbare Mauer gekennzeichnet.
+§1.8 Spawntrappen ist nicht im sinne des Roleplays, also Verboten.
+
 
 ## §2 Modifikationen, Autoclicker und etc sind Verboten.  
 §2.1 Jede Modifikation, die nicht explizit erlaubt wurde, kann zu einem Bann führen, falls diese als Verboten eingestuft wird.</br>
@@ -31,7 +33,6 @@
 ## §5 Automatische Farmen sind nicht erlaubt
 §5.1 Raidfarmen sind nicht erlaubt, in jeglicher Form.
 
-## §6 Spawntrappen ist verboten
 
 
 </br></br></br>
