@@ -19,6 +19,8 @@
 §2.1 Jede Modifikation, die nicht explizit erlaubt wurde, kann zu einem Bann führen, falls diese als Verboten eingestuft wird.</br>
 §2.2 Autoclicker und andere Modifikationen sind auch verboten.</br>
 §2.3 Dazu zählen auch Minimaps die Höhlen, Monster, Tiere oder Spieler zeigen.</br>
+§2.4 Das Streamen von nicht erlaubten Modifikationen ist verboten.
+
 
 ## §3 Beleidigen und ähnliches sind verboten.
 §3.1 Beleidigungen sind untersagt, denn wir wollen ein freundliches Miteinander und keine zerstrittene Community!</br>
