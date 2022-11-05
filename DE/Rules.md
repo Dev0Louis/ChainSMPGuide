@@ -1,5 +1,4 @@
 # Regelwerk
-
 ### Ihr müsst damit Rechnen, dass ihr in Streams/Videos zuhören seid!</br>
 
 
