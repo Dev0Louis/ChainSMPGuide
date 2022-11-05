@@ -5,7 +5,7 @@
 
 ### §1 Wer dem Roleplay schadet, wird gebannt.
 **§1.0 Wenn ihr dem Roleplay schadet, werdet ihr bestraft!**</br>
-§1.1 Combat Logging ist Verboten.</br>
+§1.1 Combat und Roleplay Logging sind Verboten.</br>
 §1.2 Das Lügen für gekünstelten Streit ist in normal Situationen nicht erlaubt.</br>
 §1.3 Out of Roleplay Probleme sind nicht im Roleplay zu klären.</br>
 §1.4 Das spielen von Krankheiten, Behinderungen oder Schwangerschaften ist in normalen Situationen untersagt.</br>
