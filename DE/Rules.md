@@ -3,7 +3,7 @@
 ## Rechnen müsst ihr damit, dass ihr in Streams/Videos zuhören seid!</br>
 
 
-### §1 Wer dem Roleplay schadet, wird gebannt.
+### §1 Roleplay 
 **§1.0 Wenn ihr dem Roleplay schadet, werdet ihr bestraft!**</br>
 §1.1 Combat und Roleplay Logging sind Verboten.</br>
 §1.2 Das Lügen für gekünstelten Streit ist in normal Situationen nicht erlaubt.</br>
