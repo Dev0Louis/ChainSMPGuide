@@ -1,5 +1,5 @@
 # Regelwerk
-### Ihr müsst damit Rechnen, dass ihr in Streams/Videos zuhören seid!</br>
+## **Ihr müsst damit Rechnen, dass ihr in Streams/Videos zuhören seid!**</br>
 
 
 ### §1 Roleplay 
