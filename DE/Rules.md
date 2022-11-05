@@ -31,8 +31,9 @@
 §4.3 Earrape ist verboten!</br>
 §4.4 Stimmenverzerer sind verboten.</br>
 
-## §5 Automatische Farmen sind nicht erlaubt
-§5.1 Raidfarmen sind nicht erlaubt, in jeglicher Form.
+## §5 Farmen
+§5.1 Automatische Farmen sind nicht erlaubt.
+§5.2 Raidfarmen sind nicht erlaubt, in jeglicher Form.
 
 
 
