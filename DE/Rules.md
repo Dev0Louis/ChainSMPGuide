@@ -1,28 +1,27 @@
 # Regelwerk
+## **Ihr müsst damit Rechnen, dass ihr in Streams/Videos zu hören seid!**</br>
 
-## Rechnen müsst ihr damit, dass ihr in Streams/Videos zuhören seid!</br><sup><sup>*wenn ihr mitspielt oder in Voicechats seid erklärt ihr euch damit okay</sup></sup>
 
-
-### §1 Wer dem Roleplay schadet, wird gebannt.
-**§1.0 Eine explizite Regel, um fest zu stellen, das ihr dem Roleplay schaden wollt, wird nicht gebraucht!**</br>
-§1.1 Wer vor Roleplay Situationen flieht, wird bestraft.</br>
+### §1 Roleplay 
+**§1.0 Wenn ihr dem Roleplay schadet, werdet ihr bestraft!**</br>
+§1.1 Combat und Roleplay Logging sind Verboten.</br>
 §1.2 Das Lügen für gekünstelten Streit ist in normal Situationen nicht erlaubt.</br>
 §1.3 Out of Roleplay Probleme sind nicht im Roleplay zu klären.</br>
 §1.4 Das spielen von Krankheiten, Behinderungen oder Schwangerschaften ist in normalen Situationen untersagt.</br>
 §1.5 Es sollte im Roleplay nicht auf denn Support oder die Regeln hingewiesen werden.</br>
-§1.6 Der allgemeine Stil des Servers ist Mittelalterlich, falls ihr gegen diesen Verstößt, könnt ihr bestraft werden.</br>
+§1.6 Der Baustil ist im und vor dem Mittelalter angesiedelt, andere Bauprojekte müssen im Support abgesprochen werden.</br>
 §1.7 Eine Basis wird durch eine klar erkennbare Mauer gekennzeichnet.</br>
 §1.8 Spawntrappen ist nicht im sinne des Roleplays, also Verboten.
 
 
-## §2 Modifikationen, Autoclicker und etc sind Verboten.  
+## §2 Modifikationen, Autoclicker
 §2.1 Jede Modifikation, die nicht explizit erlaubt wurde, kann zu einem Bann führen, falls diese als Verboten eingestuft wird.</br>
 §2.2 Autoclicker und andere Modifikationen sind auch verboten.</br>
 §2.3 Dazu zählen auch Minimaps die Höhlen, Monster, Tiere oder Spieler zeigen.</br>
 §2.4 Das Streamen von nicht erlaubten Modifikationen ist verboten.
 
 
-## §3 Beleidigen und ähnliches sind verboten.
+## §3 Beleidigen und ähnliches 
 §3.1 Beleidigungen sind untersagt, denn wir wollen ein freundliches Miteinander und keine zerstrittene Community!</br>
 §3.2 Im Roleplay sind sie in **maßen** erlaubt, aber haltet es in **grenzen**!
 
@@ -32,8 +31,9 @@
 §4.3 Earrape ist verboten!</br>
 §4.4 Stimmenverzerer sind verboten.</br>
 
-## §5 Automatische Farmen sind nicht erlaubt
-§5.1 Raidfarmen sind nicht erlaubt, in jeglicher Form.
+## §5 Farmen
+§5.1 Automatische Farmen sind nicht erlaubt.</br>
+§5.2 Raidfarmen sind nicht erlaubt, in jeglicher Form.
 
 
 
