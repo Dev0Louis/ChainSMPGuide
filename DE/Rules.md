@@ -11,7 +11,8 @@
 §1.5 Es sollte im Roleplay nicht auf denn Support oder die Regeln hingewiesen werden.</br>
 §1.6 Der Baustil ist im und vor dem Mittelalter angesiedelt, andere Bauprojekte müssen im Support abgesprochen werden.</br>
 §1.7 Eine Basis wird durch eine klar erkennbare Mauer gekennzeichnet.</br>
-§1.8 Spawntrappen ist nicht im sinne des Roleplays, also Verboten.
+§1.8 Spawntrappen ist nicht im sinne des Roleplays, also Verboten.</br>
+§1.9 Real-Religiöse und Real-Politische Ereignisse und Personen, sind im Roleplay unangebracht und verboten.   
 
 
 ## §2 Modifikationen, Autoclicker
